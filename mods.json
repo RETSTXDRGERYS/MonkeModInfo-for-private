@@ -61,22 +61,25 @@
 			"group": "Libraries"
 		},
 		{
-			"name": "GOOMPS",
+			"name": "Cookie clicker",
 			"tag": "",
-			"gitPath": "BzzzThe18th/GOOMPS",
-			"releaseId": 0,
-			"author": "buzzbb",
-			"group": "Tweaks / Tools",
-			"dependencies": [
-				"Utilla"
-			]
+			"gitPath": "TraqVR/GorillaCookieClicker",
+			"releaseId": 1.0.1,
+			"author": "TraqVR",
+			"group": "Mods",
 		},
-		        
+		 {
+    "name": "iis stupid",
+    "author": "IIdk-The-Actual",
+    "version": "5.1",
+    "git_path": "iiDk-the-actual/iis.Stupid.Menu",
+    "group": "Mod Menus"
+		 },
 		{
 			"name": "bHaptics",
 			"tag": "",
 			"gitPath": "floh-bhaptics/GorillaTag_bhaptics",
-			"releaseId": 0,
+			"releaseId": 3.0.1,
 			"author": "Florian Fahrenberger",
 			"group": "Mods"
 		},
@@ -101,15 +104,7 @@
 			"dependencies": [
 				"Utilla"
 			]
-		},
-		 {
-    "name": "iis stupid",
-    "author": "IIdk-The-Actual",
-    "version": "5.1",
-    "git_path": "iiDk-the-actual/iis.Stupid.Menu",
-    "group": "Mod Menus"
-  }
-		
+		}
 	],
 	"groups": [{
 			"name": "Core",
