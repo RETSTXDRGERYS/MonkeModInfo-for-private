@@ -63,7 +63,7 @@
 		{
 			"name": "Cookie clicker",
 			"gitPath": "TraqVR/GorillaCookieClicker",
-			"releaseId": 1.0.2,
+			"version": "1.0.2",
 			"author": "TraqVR",
 			"group": "Mods",
 		},
@@ -78,7 +78,7 @@
 			"name": "bHaptics",
 			"tag": "",
 			"gitPath": "floh-bhaptics/GorillaTag_bhaptics",
-			"releaseId": 3.0.1,
+			"version": "3.0.1",
 			"author": "Florian Fahrenberger",
 			"group": "Mods"
 		},
