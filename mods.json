@@ -62,9 +62,8 @@
 		},
 		{
 			"name": "Cookie clicker",
-			"tag": "",
 			"gitPath": "TraqVR/GorillaCookieClicker",
-			"releaseId": 1.0.1,
+			"releaseId": 1.0.2,
 			"author": "TraqVR",
 			"group": "Mods",
 		},
