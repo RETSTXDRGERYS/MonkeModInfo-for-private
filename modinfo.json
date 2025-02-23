@@ -67,13 +67,12 @@
     "git_path": "iiDk-the-actual/iis.Stupid.Menu",
     "group": "Mod Menus",
     "download_url": "https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases/download/5.5.0/iis_Stupid_Menu.dll"
-  }
+  },
   {
-			"name": "Cookie clicker",
-			"tag": "",
-			"gitPath": "TraqVR/GorillaCookieClicker",
-			"releaseId": 1.0.1,
+                        "name": "Cookie clicker",
 			"author": "TraqVR",
+	                "version": "1.0.1",
+			"gitPath": "TraqVR/GorillaCookieClicker",
 			"group": "Mods",
     "download_url": "https://github.com/TraqVR/GorillaCookieClicker/releases/download/cookieclickv1.0.1/GorillaCookieClicker.dll"
 		}
