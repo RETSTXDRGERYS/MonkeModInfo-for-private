@@ -89,5 +89,12 @@
     "git_path": "floh-bhaptics/GorillaTag_bhaptics",
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/floh-bhaptics/GorillaTag_bhaptics/releases/download/v3.0.1/GorillaTag_bhaptics.zip"
+  },
+  {
+    "name": "iis stupid",
+    "author": "IIdk-The-Actual",
+    "version": "5.1",
+    "git_path": "iiDk-the-actual/iis.Stupid.Menu",
+    "group": "Gameplay",
+    "download_url": "https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases/download/5.5.0/iis_Stupid_Menu.dll"
   }
-]
